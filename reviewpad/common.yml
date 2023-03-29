@@ -27,6 +27,9 @@ labels:
   needs-review:
     description: Marks a pull request as waiting for review
     color: "#aa2297"
+  needs-triage:
+    description: Mantainers team needs to take a first look at the issue
+    color: "#c2e0c6"
 
 # For more details see https://docs.reviewpad.com/guides/syntax#workflow.
 workflows:
@@ -97,3 +100,14 @@ workflows:
         extra-actions:
           - $removeLabels(["small", "medium"])
           - $addLabel("large")
+
+  # Label issue with `needs-triage` if the author is not a public member of the organization
+  - name: issues-labelling
+    description: Label issues
+    always-run: true
+    on:
+      - issue
+    if:
+      - rule: $isElementOf($author(), $organization()) == false
+        extra-actions:
+          - $addLabel("needs-triage")
