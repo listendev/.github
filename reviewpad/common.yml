@@ -30,6 +30,9 @@ labels:
   needs-triage:
     description: Mantainers team needs to take a first look at the issue
     color: "#c2e0c6"
+  ci:
+    description: Continuous integration
+    color: "#5C316A"
 
 # For more details see https://docs.reviewpad.com/guides/syntax#workflow.
 workflows:
