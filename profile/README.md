@@ -1,6 +1,6 @@
 ## 👋 Welcome to listen.dev
 
-![listendev logo](./profile/listendev-logo.png)
+<span style="display:block;text-align:center">![listendev logo](./listendev-logo.png)</span>
 
 ### 🐬 About listen.dev
 
@@ -17,7 +17,7 @@ Open source is built into the DNA of listen.dev. As we stand on the shoulders of
 - [erborist](https://github.com/listendev/erborist)
 - More exciting stuff in the works...
 
-![listendev graphic](./profile/dolphin-3.jpg)
----
+<span style="display:block;text-align:center">![listendev graphic](./dolphin-3.jpg)</span>
 
+---
 _Made with 💗 and empathy by Garnet Labs_
