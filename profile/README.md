@@ -17,7 +17,5 @@ Open source is built into the DNA of listen.dev. As we stand on the shoulders of
 - [erborist](https://github.com/listendev/erborist)
 - More exciting stuff in the works...
 
-<span style="display:block;text-align:center">![listendev graphic](./dolphin-3.jpg)</span>
-
 ---
 _Made with 💗 and empathy by Garnet Labs_
