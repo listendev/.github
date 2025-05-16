@@ -1,21 +1,15 @@
-## 👋 Welcome to listen.dev
+# Garnet
 
-<span style="display:block;text-align:center">![listendev logo](./listendev-logo.png)</span>
+<p align="center"><img src="https://github.com/user-attachments/assets/f5c62e20-14e5-4da2-a594-aff4a12673c0" align=center width="500"/></img></p>
 
-### 🐬 About listen.dev
+- [Garnet Labs](https://www.garnet.ai/)  
+- [Garnet Labs OnBoarding Docs](https://docs.garnet.ai/)  
 
-As modern software gets built on open source foundations and the ecosystem continues to expand, ensuring its security, reliability, and trustworthiness presents major challenges. 
+# Jibril
 
-Behind listen.dev is a tribe of builders, problem solvers and OSS maintainers. Our firsthand experiences as everyday consumers, maintainers, and leaders of industry-standard open-source projects fuel our mission to make the world's open source more secure and reliable.
 
-### We ❤️ OSS
+<p align="center"><img src="https://github.com/user-attachments/assets/3b625bbe-6ce1-4f09-b1e3-d8f0eae650e8" align=center width="400"/></img></p>
 
-Open source is built into the DNA of listen.dev. As we stand on the shoulders of giants, we like to give back to the community and also maintain a bunch of projects ourselves. Most of our projects are open to the public, and we are always looking for contributors to help us build the future of open source security. 
+- [Jibril](https://jibril.garnet.ai/)
+- [Jibril Installation](https://jibril.garnet.ai/jibril/installation)
 
-- [lstn CLI](https://github.com/listendev/lstn)
-- [lstn action](https://github.com/listendev/lstn)
-- [erborist](https://github.com/listendev/erborist)
-- More exciting stuff in the works...
-
----
-_Made with 💗 and empathy by Garnet Labs_
